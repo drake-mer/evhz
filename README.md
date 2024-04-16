@@ -18,3 +18,26 @@ use USB ports that use the ehci-pci driver.
 Maintainer: Ian Kelling <ian@iankelling.org>
 
 Bugs, patches, requests, feedback are welcome.
+
+
+# license
+
+I, Ian Kelling, follow the GNU license recommendations at
+https://www.gnu.org/licenses/license-recommendations.en.html. They
+recommend that small programs, < 300 lines, be licensed under the
+Apache License 2.0. This file contains or is part of one or more small
+programs.
+
+Copyright 2024 Ian Kelling
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.

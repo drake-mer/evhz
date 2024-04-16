@@ -1,3 +1,9 @@
+/* The license of this program  follows the GNU license recommendations at */
+/* https://www.gnu.org/licenses/license-recommendations.en.html. They */
+/* recommend that small programs, < 300 lines, be licensed under the */
+/* Apache License 2.0. This file contains or is part of one or more small */
+/* programs. */
+
 /* Copyright (C) 2016 Ian Kelling */
 
 /* Licensed under the Apache License, Version 2.0 (the "License"); */
