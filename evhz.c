@@ -39,7 +39,7 @@ typedef struct event_s {
 
 int quit = 0;
 
-void sigint() {
+void sigint(int) {
     quit = 1;
 }
 
